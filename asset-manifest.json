@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Desertiks/react_autorization/static/css/main.b09b23d2.css",
+    "main.js": "/Desertiks/react_autorization/static/js/main.e400672c.js",
+    "index.html": "/Desertiks/react_autorization/index.html",
+    "main.b09b23d2.css.map": "/Desertiks/react_autorization/static/css/main.b09b23d2.css.map",
+    "main.e400672c.js.map": "/Desertiks/react_autorization/static/js/main.e400672c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09b23d2.css",
+    "static/js/main.e400672c.js"
+  ]
+}
